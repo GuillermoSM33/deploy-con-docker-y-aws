@@ -1,6 +1,4 @@
-# deploy-con-docker-y-aws
-
-# 🚀 Deploy con Docker y AWS EC2
+# Deploy con Docker y AWS EC2
 
 Este repositorio contiene una guía paso a paso para **desarrollar, dockerizar y desplegar un proyecto** en la nube utilizando servicios de AWS (EC2), Docker y configuración de dominio con HTTPS.
 
@@ -17,7 +15,7 @@ Incluye documentación básica y avanzada para cualquier desarrollador que quier
 
 ---
 
-## 🔧 Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - 🐳 **Docker**
 - ☁️ **AWS EC2**
@@ -29,27 +27,26 @@ Incluye documentación básica y avanzada para cualquier desarrollador que quier
 
 ---
 
-## 🛠️ Qué aprenderás
+##  Qué aprenderás
 
-✅ Cómo crear un Dockerfile básico  
-✅ Cómo construir y subir tu imagen a DockerHub  
-✅ Cómo levantar una instancia EC2 en AWS  
-✅ Cómo configurar un dominio con Cloudflare  
-✅ Cómo usar Nginx como proxy inverso  
-✅ Cómo instalar y configurar SSL con Certbot  
-✅ Cómo exponer tu aplicación en producción
+1. Cómo crear un Dockerfile básico  
+2. Cómo construir y subir tu imagen a DockerHub  
+3. Cómo levantar una instancia EC2 en AWS  
+4. Cómo configurar un dominio con Cloudflare  
+5. Cómo usar Nginx como proxy inverso  
+6. Cómo instalar y configurar SSL con Certbot  
+7. Cómo exponer tu aplicación en producción
 
 ---
 
-## 📷 Diagrama del flujo
+## Diagrama del flujo
 
 ![Flujo general de despliegue](./assets/flujo-despliegue.png)
 
-*(Puedes agregar una imagen aquí si subes alguna al directorio `/assets`)*
 
 ---
 
-## 💡 Requisitos previos
+## Requisitos previos
 
 - Cuenta activa en [Docker Hub](https://hub.docker.com/)
 - Cuenta en [AWS](https://aws.amazon.com/) (con EC2 habilitado)
@@ -58,7 +55,7 @@ Incluye documentación básica y avanzada para cualquier desarrollador que quier
 
 ---
 
-## 📤 Cómo usar esta guía
+## Cómo usar esta guía
 
 1. Clona este repositorio:
    ```bash

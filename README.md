@@ -6,7 +6,7 @@ Incluye documentación básica y avanzada para cualquier desarrollador que quier
 
 ---
 
-## 📘 Contenido del repositorio
+## Contenido del repositorio
 
 | Archivo | Descripción |
 |--------|-------------|
